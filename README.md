@@ -2,6 +2,8 @@
 ## 161220182 周宇航
 
 作业完成截图如下：
+![image](https://github.com/njuzyh/WebHomework/blob/master/IMG/homework.png)
+如图所示，经过补充覆盖率均达到最高。
 
 ## 你需要去了解的
 
